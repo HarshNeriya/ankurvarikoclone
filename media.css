@@ -1,0 +1,173 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .ankur-videoinner{
+        flex-direction:column;
+        padding:0px 20px;
+    }
+    .ankur-videocont{
+        margin-bottom:20px;
+
+    }
+    .ankur-icon{
+        /* flex-direction:column; */
+     
+        padding:0px 20px;
+        
+    }
+    .ankur-iconabout{
+        flex-basis:48%;
+
+    }
+    .ankur-videocont img{
+      width:200px;
+    }
+    .ankur-courses h2{
+        font-size:23px;
+    }
+    .ankur-coursescont{
+        padding:0px 20px;
+    }
+    .ankurcoursecontdeltail{
+        flex-basis:100%;
+    }
+    .ankur-transform h3{
+        font-size:16px;
+        line-height:23px;
+    }
+    .ankur-transform h2{
+        font-size:26px;
+        line-height:33px;
+    }
+    .ankur-transform h3 span{
+        font-size:15px;
+        line-height:20px;
+    }
+    .ankur-explore h2 {
+        font-size:23px;
+    }
+    .ankur-exploreinner{
+        padding:0px 20px;
+    }
+    .ankur-explorecont{
+        flex-basis:100%;
+    }
+    .ankur-explorecont2{
+        flex-basis:100%;
+    }
+    .ankur-ultimate h2{
+
+        font-size:23px;
+        padding:0px 20px;
+ }
+ .ankurcoursecontdeltail2{
+    flex-basis:100%;
+ }
+ .ankur-help h2{
+    font-size:23px;
+ }
+ .ankur-helpinner{
+    padding:0px 20px;
+ }
+ .ankur-helpcont{
+    flex-basis:100%;
+ }
+ .ankur-meet h2{
+    font-size:23px;
+    line-height:30px;
+ }
+ .ankur-big h2{
+    font-size:28px;
+ }
+ .ankur-meetimg{
+    margin-bottom:20px;
+ }
+ .ankur-meetinner{
+    flex-direction:column;
+    padding:0px 20px;
+ }
+ .ankur-stu{
+    font-size:23px;
+ }
+ .ankur-stuinner{
+    flex-direction:column;
+    padding: 0px 20px;
+ }
+ .ankur-stucont{
+    margin-bottom:20px;
+ }
+ .ankur-exp h2{
+    font-size:23px;
+    padding:0px 20px;
+ }
+ .ankurcoursecontdeltail3{
+    flex-basis:100%;
+ }
+ .ankur-plan h2{
+    font-size:23px;
+ }
+ .ankur-planinner{
+    padding:0px 20px;
+    flex-direction:column;
+ }
+ .ankur-plancont{
+    margin-bottom:20px;
+ }
+ .ankur-tableinner{
+    overflow:scroll;
+ }
+ .ankur-table h2{
+    font-size:23px;
+ }
+ .destable thead tr  th+th{
+    padding:12px;
+ }
+ .destable thead tr th h4{
+    font-size:14px;
+ }
+ .destable thead tr  th span{
+    font-size:17px;
+ }
+ .destable tbody tr td {
+    padding:9px 13px;
+ }
+ .destable tbody tr td:first-child h6{
+    font-size:12px;
+    line-height:15px;
+ }
+ .destable tbody tr td button{
+    min-width: 130px;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 12px 13px;
+ }
+ .ankur-global h2{
+    font-size:23px;
+
+ }
+ .ankur-globalinner {
+    flex-direction:column;
+    padding:0px 20px;
+ }
+ .ankur-globalimg {
+    margin-bottom:20px;
+ }
+ .ankur-globalbutton{
+    text-align:center;
+    margin-bottom:20px;
+ }
+ .ankur-globalinner2{
+    margin:0px 20px;
+ }
+ .faq h2{
+    font-size:23px;
+ }
+ .faq-inner{
+    padding:0px 20px;
+ }
+ .ankur-helpicon{
+    width:50px;
+ }
+ .endbtn{
+    display:block;
+ }
+
+}
